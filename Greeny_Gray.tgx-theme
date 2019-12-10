@@ -1,0 +1,43 @@
+!
+name: "Greeny_Gray"
+time: 1575920408
+author: "ky4eryaviipon4o"
+@
+parentTheme: 10
+#
+attachContact, attachFile, attachInlineBot, attachLocation, attachPhoto, bubble_date_noWallpaper, bubbleIn_background, bubbleIn_separator, bubbleOut_separator, chatBackground, chatKeyboard, fileAttach, filling, headerBackground, headerLightBackground, inlineContentActive, iv_preBlockBackground, iv_separator, messageSwipeBackground, overlayFilling, passcode, separator, shareSeparator, statusBar: #3A3A3A
+background, badgeText, bubble_mediaReply_noWallpaper, bubble_unread_noWallpaper, bubbleIn_outline, bubbleIn_textLinkPressHighlight, bubbleOut_file, bubbleOut_inlineOutline, bubbleOut_outline, bubbleOut_textLinkPressHighlight, caption_textLinkPressHighlight, checkContent, circleButtonChat, circleButtonOverlay, circleButtonRegular, circleButtonTheme, controlContent, file, fillingPositive, headerButton, iv_linkHighlight, playerCoverPlaceholder, textLinkPressHighlight, togglerActiveBackground, togglerNegativeContent, togglerPositiveBackground, togglerPositiveContent: #252525
+background_icon, background_text, badge, badgeMutedText, bubbleIn_progress, bubbleIn_time, bubbleOut_chatVerticalLine, bubbleOut_inlineIcon, bubbleOut_inlineText, bubbleOut_messageAuthor, bubbleOut_progress, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_time, bubbleOut_waveformActive, checkActive, circleButtonChatIcon, circleButtonOverlayIcon, fillingNegative, iconLight, inlineIcon, inlineText, inputActive, messageVerticalLine, nameBlue, nameCyan, nameGreen, nameOrange, namePink, nameRed, nameViolet, nameYellow, notificationPlayer, playerButtonActive, playerCoverIcon, seekDone, sliderActive, textNeutral, ticks, ticksRead, togglerActive, togglerPositive, waveformActive: #FFF
+background_textLight, controlInactive, headerBarCallMuted, iv_caption, iv_pageAuthor, iv_pageFooter, iv_pageSubtitle, textPlaceholder, togglerInactive, togglerNegative, unread: #A7A7A7
+badgeMuted, bubbleOut_waveformInactive, chatListMute, introSection, seekReady, videoSliderInactive: #737373
+bubble_buttonRipple_noWallpaper: #C90B0B30
+bubble_chatBackground: #323232
+bubble_chatSeparator, chatSeparator: #00000070
+bubbleIn_pressed, fillingPressed: #50505070
+bubbleIn_textLink, bubbleOut_textLink: #4991CC
+bubbleOut_background, inputInactive, seekEmpty, sliderInactive, togglerInactiveBackground, togglerNegativeBackground: #505050
+chatKeyboardButton: #454545
+chatListAction: #46BE49
+chatSendButton: #34F201
+controlActive, inlineOutline, progress: #13DDB2
+headerBarCallActive: #64FFA3
+headerIcon: #FF6A05
+headerTabInactiveText: #A7A7A7CC
+headerText: #02FF5F
+icon, iconActive: #04E95F
+messageAuthor: #D3FF49
+messageSelection: #69696996
+notification: #70FF3A
+online: #00FF3D
+placeholder: #64C3FF
+profileSectionActive: #B7FF6D
+profileSectionActiveContent: #B40E3E
+promo: #F26506
+text: #00FAAD
+textLight: #00E5FF
+textLink: #12CEA2
+textNegative: #DD4B39
+textSearchQueryHighlight: #EF0
+textSecure: #64C05B
+textSelectionHighlight: #C03A61
+waveformInactive: #696969
