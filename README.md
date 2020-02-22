@@ -1,4 +1,5 @@
 <h4>Telegram</h4>
+🤖 Telegram bot (полезное)
 
 ```
 https://api.telegram.org/bot[token]/getUpdates 
@@ -18,7 +19,8 @@ https://api.telegram.org/bot[token]/sendMessage?chat_id=[chat_id]&text=[text]
 curl -s -X POST https://api.telegram.org/bot944496485:AAEtGaGCVrQ7d26Rc3r_cqXPIhrKVokh8e4/sendMessage 
 -d chat_id=336116180 -d text="текст_сообщения"
 ````
-[chat_id] - может быть с минусом перед 
+[chat_id] - может быть с минусом перед цыфрами. Можно использовать ID группы.
+
 <hr>
 
 <h4>Telegram X theme</h4>
