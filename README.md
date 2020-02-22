@@ -1,6 +1,6 @@
 # Telegram
-<body2>
-My first theme for telegram x on os android (patap aka ky4eryavii_pon4o)
+
+
     
 color: green/lime/orange/gray
     
