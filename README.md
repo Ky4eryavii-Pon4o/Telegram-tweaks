@@ -2,8 +2,8 @@
 
 ```
 https://api.telegram.org/bot[token]/getUpdates 
-где [token] это API который выдал BotFather.
 ```
+где [token] это API который выдал BotFather.
 
 Для отправки сообщения в чат, нужно использовать следующий URL:
 ```
