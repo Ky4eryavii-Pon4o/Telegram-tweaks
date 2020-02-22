@@ -14,8 +14,10 @@ https://api.telegram.org/bot[token]/sendMessage?chat_id=[chat_id]&text=[text]
 [chat_id] — это ID вашего чата с ботом.
 
 Например:
-
-<code>curl -s -X POST https://api.telegram.org/bot944496485:AAEtGaGCVrQ7d26Rc3r_cqXPIhrKVokh8e4/sendMessage -d chat_id=336116180 -d text="текст_сообщения"</code>
+```
+curl -s -X POST https://api.telegram.org/bot944496485:AAEtGaGCVrQ7d26Rc3r_cqXPIhrKVokh8e4/sendMessage 
+-d chat_id=336116180 -d text="текст_сообщения"
+````
 <hr>
 
 <h4>Telegram X theme</h4>
