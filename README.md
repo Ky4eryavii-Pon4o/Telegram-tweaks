@@ -6,11 +6,11 @@ https://api.telegram.org/bot[token]/getUpdates
 ```
 
 Для отправки сообщения в чат, нужно использовать следующий URL:
-<code>https://api.telegram.org/bot[token]/sendMessage?chat_id=[chat_id]&text=[text]</code>
+```
+https://api.telegram.org/bot[token]/sendMessage?chat_id=[chat_id]&text=[text]
+```
 Где:
-
 [token] — это API который выдал @BotFather
-
 [chat_id] — это ID вашего чата с ботом.
 
 Например:
