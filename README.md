@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h4>Telegram</h4>
-🤖 Telegram bot (полезное)
+🤖 **Telegram bot (полезное)**
 
 ```
 https://api.telegram.org/bot[token]/getUpdates 
@@ -36,9 +36,6 @@ curl -s -X POST https://api.telegram.org/bot944496485:AAEtGaGCVrQ7d26Rc3r_cqXPIh
 [Greeny_Gray.tgx-theme](https://github.com/Ky4eryavii-Pon4o/Telegram-tweaks/blob/master/Greeny_Gray.tgx-theme)
 
 color: green/lime/orange/gray
-
-**updated:** 10/12/2019
-
 
 
 
