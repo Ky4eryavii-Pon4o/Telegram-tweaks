@@ -4,13 +4,22 @@ layout: default
 ---
 <h4>Web Telegram</h4>
 New
+
+```
 https://web.telegram.org/k/
+```
 
 New
-https://web.telegram.org/z/
 
+```
+https://web.telegram.org/z/
+```
 Legacy web telegram
+
+```
 https://web.telegram.org/?legacy=1#/im
+```
+
 
 
 <h4>Telegram</h4>
